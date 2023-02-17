@@ -16,14 +16,14 @@ This repository contains resources and materials for a data science bootcamp. Th
 
 To get started with the bootcamp, you'll need to install the following tools:
 
-Python 3.7+
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Pytorch
+- Python 3.7+
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Pytorch
 
 You can install these tools using [Anaconda](https://www.anaconda.com/products/individual), a popular distribution of Python that includes all of these packages or you can follow along `pip` as well for the installation.
 
