@@ -33,8 +33,8 @@ The curriculum for the data science bootcamp is organized into the following mod
 
 - Python Programming Language
 - Mathematics for Data Science
-- Data Cleaning and Preprocessing
 - Exploratory Data Analysis
+- Data Cleaning and Preprocessing
 - Machine Learning Algorithms
 - Deep Learning and Neural Networks
 
