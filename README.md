@@ -18,8 +18,8 @@ To get started with the bootcamp, you'll need to install the following tools:
 
 - Python 3.7+
 - Jupyter Notebook
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
@@ -46,4 +46,4 @@ If you find any issues or errors in the material provided in this repository, pl
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is created for educational purpose. Any kind of abuse can be subjected to copyright issues.
