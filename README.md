@@ -1,4 +1,4 @@
-# Data Science Bootcamp
+# The Data Science Learning Hub
 
 This repository contains resources and materials for a data science bootcamp. The bootcamp is designed to teach individuals the fundamentals of data science. In this bootcamp, you'll learn the foundational skills and tools necessary to work with data, including:
 
