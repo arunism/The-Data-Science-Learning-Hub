@@ -21,3 +21,9 @@ Some common applications of probability in data science include:
 - **Fraud detection:** Probability theory is used in fraud detection to identify anomalies and detect fraudulent activities.
 
 Overall, probability is a crucial tool for data scientists to make sense of data and build models that can be used to make predictions and informed decisions.
+
+## References
+
+- [Stochastic Processes Course Notes](https://www.stat.auckland.ac.nz/~fewster/325/notes/325book.pdf)
+- [Introduction to Probability](https://ethanweed.github.io/pythonbook/04.02-probability.html)
+- [Probability](https://www.vedantu.com/maths/probability)
