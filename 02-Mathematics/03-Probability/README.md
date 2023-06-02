@@ -27,3 +27,4 @@ Overall, probability is a crucial tool for data scientists to make sense of data
 - [Stochastic Processes Course Notes](https://www.stat.auckland.ac.nz/~fewster/325/notes/325book.pdf)
 - [Introduction to Probability](https://ethanweed.github.io/pythonbook/04.02-probability.html)
 - [Probability](https://www.vedantu.com/maths/probability)
+- [The Role of Probability](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_probability/)
