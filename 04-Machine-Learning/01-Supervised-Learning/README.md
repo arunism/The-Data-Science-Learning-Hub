@@ -23,7 +23,7 @@ Popular Algorithms for Supervised Learning:
 ## Dataset
 The data used here is known as hr-analytics. It focuses on Employee churn modelling. Employee churn model is used to predict the likelihood of employees leaving the organization. By analyzing historical employee data, we aim to build a predictive model that accurately classifies employees as churned or retained. The model will provide actionable insights for proactive retention strategies and help reduce costs associated with employee attrition.
 
-The dataset used here can be downloaded from [here](https://github.com/arunism/The-Data-Science-Learning-Hub/blob/master/data/HR-Analytics.csv). This dataset has been tweaked to some extend, so that it gets subjected to more data science tasks. The original dataset can be downloaded from [kaggle](https://www.kaggle.com/datasets/giripujar/hr-analytics).
+The dataset used here can be downloaded from [here](https://github.com/arunism/The-Data-Science-Learning-Hub/blob/master/data/HR-Analytics.csv). This dataset has been tweaked to some extend from the original one, so that it gets subjected to more data science tasks. The original dataset can be downloaded from [kaggle](https://www.kaggle.com/datasets/giripujar/hr-analytics).
 
 The dataset consists of 15,004 rows and 11 columns (including the target column).
 
