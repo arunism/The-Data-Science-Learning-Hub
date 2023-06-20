@@ -12,3 +12,10 @@ Python is a popular high-level programming language that was created by Guido va
 - **Large standard library:** Python comes with a large standard library that provides many useful modules and functions for tasks such as file I/O, network programming, and database access.
 - **Dynamically typed:** Python is a dynamically typed language, which means that variable types are determined at runtime rather than being explicitly declared in the code.
 - **Versatile:** Python can be used for a wide range of tasks, including web development, scientific computing, data analysis, and more.
+
+## References
+
+- [Official Python Documentation](https://docs.python.org/3/)
+- [Real Python: Python Tutorial](https://realpython.com/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Learn Python the Hard Way](https://rupert.id.au/python/book/learn-python3-the-hard-way-nov-15-2018.pdf)
