@@ -38,3 +38,5 @@ The dataset consists of 15,004 rows and 11 columns (including the target column)
 - **Department:** Which department employee belongs to? (categorical) -> 10 unique values
 - **age:** Age of the employee during the survey (numerical)
 - **left:** Whether employee left the company? (categorical) -> 0/1
+
+The difference between calssification and regression can be understood from [here](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/).
