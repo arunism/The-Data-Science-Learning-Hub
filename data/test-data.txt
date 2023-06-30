@@ -1,0 +1,22 @@
+Byte Pair Encoding (BPE) is a subword tokenization algorithm that breaks down words into smaller subword units based on the statistical patterns observed in a given text corpus. The BPE algorithm consists of the following steps:
+
+Initialization:
+
+Start with a vocabulary that includes individual characters or character sequences (e.g., each character in the alphabet or each word in the corpus).
+Calculate the frequency of each vocabulary item in the corpus.
+Iterative merging:
+
+While the desired vocabulary size is not reached:
+Calculate the frequency pairs of consecutive vocabulary items in the corpus.
+Merge the most frequent pair of vocabulary items into a single new item.
+Update the vocabulary and recompute the frequencies of the merged item and other affected items.
+Termination:
+
+Stop merging when the desired vocabulary size is reached, or when a predefined number of iterations is completed.
+The merging process in BPE is driven by the statistical patterns observed in the corpus. As the algorithm progresses, it tends to merge more frequent character pairs or character sequences into new subword units. This allows the BPE tokenizer to represent both common and rare words efficiently.
+
+During tokenization, the BPE tokenizer applies the learned merging rules to encode text into subword units. The tokenizer starts with the original word and tries to match it with the longest vocabulary item in the learned vocabulary. If a match is found, the word is split into subword tokens based on the matched vocabulary item. This process continues recursively until the entire text is encoded into subword tokens.
+
+By using BPE tokenization, the tokenizer can handle out-of-vocabulary words by breaking them down into subword units that are part of the vocabulary. This approach helps improve the coverage of the vocabulary and the generalization of the tokenizer to handle unseen words.
+
+Overall, BPE is a data-driven algorithm that learns subword units from a given corpus and enables effective tokenization by encoding words into subword tokens based on the statistical patterns present in the data.
