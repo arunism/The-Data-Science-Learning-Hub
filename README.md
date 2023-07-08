@@ -22,10 +22,21 @@ To get started with the bootcamp, you'll need to install the following tools:
 - Pandas
 - Matplotlib
 - Seaborn
+- NLTK
+- Scipy
+- Simpy
 - Scikit-learn
+- Tensorflow
 - Pytorch
+- Streamlit
 
-You can install these tools using [Anaconda](https://www.anaconda.com/products/individual), a popular distribution of Python that includes all of these packages or you can follow along `pip` as well for the installation.
+You can install these tools using [Anaconda](https://www.anaconda.com/products/individual), a popular distribution of Python that includes all of these packages or you can follow along `pip` as well for the installation. You may copy the code below and run it it the terminal to install all the required packages.
+
+```
+pip install -r requirements.txt
+```
+
+Besides Python and realted packages, The sixth chapter under the title `Miscellaneous` includes different surronding resources that a data scientist should be familiar with. The installation of each of those topics are provided with guidelines in their respective locations.
 
 ## Curriculum
 
@@ -33,10 +44,10 @@ The curriculum for the data science bootcamp is organized into the following mod
 
 - Python Programming Language
 - Mathematics for Data Science
-- Exploratory Data Analysis
-- Data Cleaning and Preprocessing
+- Data Engineering
 - Machine Learning Algorithms
 - Deep Learning and Neural Networks
+- Miscellaneous Topics
 
 Each module includes a set of lectures and exercises to help you learn and apply the concepts covered in the module.
 
