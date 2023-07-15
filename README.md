@@ -42,12 +42,12 @@ Besides Python and realted packages, The sixth chapter under the title `Miscella
 
 The curriculum for the data science bootcamp is organized into the following modules:
 
-- Python Programming Language
-- Mathematics for Data Science
-- Data Engineering
-- Machine Learning Algorithms
-- Deep Learning and Neural Networks
-- Miscellaneous Topics
+- [Python Programming Language](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python)
+- [Mathematics for Data Science](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/02-Mathematics)
+- [Data Engineering](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/03-Data-Engineering)
+- [Machine Learning Algorithms](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/04-Machine-Learning)
+- [Deep Learning and Neural Networks](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/05-Deep-Learning)
+- [Miscellaneous Topics](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/06-Miscellaneous)
 
 Each module includes a set of lectures and exercises to help you learn and apply the concepts covered in the module.
 
