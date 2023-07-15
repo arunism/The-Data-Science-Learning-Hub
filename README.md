@@ -1,16 +1,26 @@
 # The Data Science Learning Hub
 
-This repository contains resources and materials for a data science bootcamp. The bootcamp is designed to teach individuals the fundamentals of data science. In this bootcamp, you'll learn the foundational skills and tools necessary to work with data, including:
+This repository contains resources and materials for a data science bootcamp. The bootcamp is designed to teach individuals the fundamentals of data science. In this bootcamp, you'll learn the foundational skills and tools necessary to work with data, including: Introduction to Data Science, Data Preprocessing, Exploratory Data Analysis, Statistical Inference, Machine Learning, Deep Learning, Natural Language Processing, Big Data and Distributed Computing, Data Visualization and Communication
 
-- Introduction to Data Science
-- Data Preprocessing
-- Exploratory Data Analysis
-- Statistical Inference
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Big Data and Distributed Computing
-- Data Visualization and Communication
+## Curriculum
+
+The curriculum for the data science bootcamp is organized into the following modules:
+
+1. [Python Programming Language](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python)
+    1.1 [Data Types](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/01-Data-Types)
+    1.2 [Control Statements](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/02-Control-Statements)
+    1.3 [Functions](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/03-Functions)
+    1.4 [Object Oriented Programming](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/04-Object-Oriented-Programming)
+    1.5 [Modules and Packages](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/05-Modules-and-Packages)
+    1.6 [Exception Handling](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/06-Exception-Handling)
+    1.7 [Advanced Python Concepts](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python/07-Advanced-Python)
+2. [Mathematics for Data Science](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/02-Mathematics)
+3. [Data Engineering](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/03-Data-Engineering)
+4. [Machine Learning Algorithms](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/04-Machine-Learning)
+5. [Deep Learning and Neural Networks](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/05-Deep-Learning)
+6. [Miscellaneous Topics](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/06-Miscellaneous)
+
+Each module includes a set of lectures and exercises to help you learn and apply the concepts covered in the module.
 
 ## Getting Started
 
@@ -37,19 +47,6 @@ pip install -r requirements.txt
 ```
 
 Besides Python and realted packages, The sixth chapter under the title `Miscellaneous` includes different surronding resources that a data scientist should be familiar with. The installation of each of those topics are provided with guidelines in their respective locations.
-
-## Curriculum
-
-The curriculum for the data science bootcamp is organized into the following modules:
-
-- [Python Programming Language](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/01-Python)
-- [Mathematics for Data Science](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/02-Mathematics)
-- [Data Engineering](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/03-Data-Engineering)
-- [Machine Learning Algorithms](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/04-Machine-Learning)
-- [Deep Learning and Neural Networks](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/05-Deep-Learning)
-- [Miscellaneous Topics](https://github.com/arunism/The-Data-Science-Learning-Hub/tree/master/06-Miscellaneous)
-
-Each module includes a set of lectures and exercises to help you learn and apply the concepts covered in the module.
 
 ## Contributing
 
